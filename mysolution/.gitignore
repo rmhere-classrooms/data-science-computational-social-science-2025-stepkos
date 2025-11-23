@@ -1,0 +1,21 @@
+# MacOS
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# Cache
+*.pyc
+*.pyo
+*/__pycache__
+*/.pytest_cache
+
+# Virtual Environment
+/venv
+/.venv
+
+# Graphics
+*.png
+*.jpg
+*.jpeg
