@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import igraph as ig
 import matplotlib.pyplot as plt
-from IPython.display import Image, display
 
 random_seed = 42
 random.seed(random_seed)

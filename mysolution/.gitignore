@@ -14,8 +14,3 @@
 # Virtual Environment
 /venv
 /.venv
-
-# Graphics
-*.png
-*.jpg
-*.jpeg
