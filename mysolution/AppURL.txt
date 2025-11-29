@@ -2,13 +2,13 @@ http://127.0.0.1:8000
 Jakub Stępkowski
 272896
 
-Implementacja w Pythonie stąd zad3 nie jest opublikowane na ShinyApps tylko wymaga serwera lokalnego
+Implementacja w Pythonie stąd zadanie 3 nie jest opublikowane na ShinyApps tylko wymaga serwera lokalnego
 
 Uruchomienie rozwiązań
 - instalacja wymaganych pakietów Python:
     pip install -r requirements.txt
 
 - Zadanie 1, 2 oraz 3 bez wykresu live to notebooki pythonowe
-- Zadanie 3
+- Zadanie 3 wykres live
     cd mysolution
     shiny run --reload --launch-browser mysolution3_shiny.py
